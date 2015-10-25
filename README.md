@@ -16,3 +16,4 @@ The admin password is set to 123456. You should consider to change it.
 
 Read the igalerie documentation (http://www.igalerie.org/documentation) for more information on how to use igalerie.
 
+<img src="http://www.igalerie.org/images/gallery01_thumb.gif"/>
