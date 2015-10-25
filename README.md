@@ -7,7 +7,7 @@ Igalerie is a image gallery built by http://www.igalerie.org.
 docker build -t frlsazc/docker-igalerie:2.3.6 .
 
 #Running the docker :
-docker run -d --name igalerie -p 8180:80 -v <albums path>:/albums frlsazc/docker-igalerie
+docker run -d --name igalerie -p 8180:80 -v <albums path>:/albums frlsazc/docker-igalerie:2.3.6
 
 Go to http://localhost:8180/igalerie to see your galerie.
 The admin page URL is http://localhost:8180/igalerie/admin 
